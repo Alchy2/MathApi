@@ -4,4 +4,4 @@ possible operations:
 - sub
 * mul
 
-/ div
+ / div
