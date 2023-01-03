@@ -1,7 +1,6 @@
 # MathApi
 possible operations:
-+ sum
+- sum +
 - sub
-* mul
-
- / div
+- mul
+- div
